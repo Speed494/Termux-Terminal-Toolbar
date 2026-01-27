@@ -5,6 +5,8 @@ This Tool Use For Change termux toolbar style
 ```
 git clone https://github.com/Speed494/Termux-Terminal-Toolbar
 
+cd Termux-Terminal-Toolbar
+
 bash Toobarchanger.sh 
 ```
 
