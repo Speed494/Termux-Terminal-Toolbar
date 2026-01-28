@@ -3,7 +3,9 @@ NC='\033[0m'
 
 if [ -f ~/.termux/termux.properties ]; then
 rm ~/.termux/termux.properties && termux-reload-settings
-‎echo -e "${GREEN}Purani Setting Delete Ho Gaya${NC}"
+‎
+echo -e "${GREEN}Purani Setting Delete Ho Gaya${NC}"
+
 fi
 
 mkdir -p ~/.termux && echo "extra-keys= [['exit','CTRL','git clone'],['python','clear','rm','LEFT','RIGHT']]" > ~/.termux/termux.properties && termux-reload-settings
