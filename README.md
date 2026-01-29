@@ -1,5 +1,7 @@
 # Termux-Terminal-Toolbar Only For Termux
 
+# Version : 1.0.0
+
 This Tool Use For Change termux toolbar style
 
 ```
