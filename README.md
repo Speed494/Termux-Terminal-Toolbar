@@ -7,6 +7,8 @@ git clone https://github.com/Speed494/Termux-Terminal-Toolbar
 
 cd Termux-Terminal-Toolbar
 
+chmod +x Toolbarchanger.sh
+
 bash Toolbarchanger.sh 
 ```
 
